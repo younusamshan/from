@@ -1,0 +1,41 @@
+
+body 
+{
+    background-color: rgb(205, 199, 199);
+}
+.tank img {
+    width: 100%;
+}
+
+
+.heading {
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+.paragrap p {
+    font-size: 30px;
+    text-align: justify;
+    text-align: center;
+}
+.section h1 {
+    text-align: center;
+    line-height: 15px;
+
+}
+.span {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    
+}
+.section p {
+    font-size: 30px;
+    color: rgb(59, 53, 53);
+    text-align: center;
+
+}
+ .img {
+    align-items: center;    
+}

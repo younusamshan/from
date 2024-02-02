@@ -1,0 +1,36 @@
+table {
+    width: 900px;
+    height: 60px;
+    text-align: center;
+    font-size: 30px;
+  
+  }
+  .main  {
+      margin-left: 270px;
+  }
+  .fiel {
+      width: 70%;
+      align-items: center;
+  }
+
+
+
+
+  .fiel p {
+      font-size: 30px;
+      font-weight: bold;
+      color: black;
+      line-height: 10px;
+  }
+  
+@media only screen and (max-width: 768px) {
+    table {
+       width: 100%;
+    }   
+    .fiel input {
+       width: 100%;
+    }
+    .main {
+        margin-left: 10%;
+    }
+   }
